@@ -1,11 +1,11 @@
 {
-  "name": "blk-design-system-angular",
+  "name": "group-parahbrahma",
   "version": "1.2.0",
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
     "build": "ng build",
-    "description": "BLK Design System Angular: Free Angular Design System For Bootstrap 4 and Angular",
+    "description": "parahbrahma group website for registration",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creativetimofficial/blk-design-system-angular.git"
+    "url": ""
   },
   "keywords": [
     "design system",
@@ -60,7 +60,7 @@
     "blk design system",
     "blk design system angular"
   ],
-  "author": "Creative Tim <hello@creative-tim.com> (https://www.creative-tim.com/)",
+  "author": "group-parahbrama",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/creativetimofficial/blk-design-system-angular/issues"
