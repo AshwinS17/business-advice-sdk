@@ -11,6 +11,9 @@
     "e2e": "ng e2e",
     "install:clean": "rm -rf node_modules/ && rm -rf package-lock.json && npm install && npm start"
   },
+  "engines": {
+    "node": "16.17.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/creativetimofficial/blk-design-system-angular.git"
